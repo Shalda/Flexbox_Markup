@@ -189,7 +189,7 @@ h2 {
     content: '';
     display: inline-block;
     margin-top: 1em;
-    width: 1em;
+    width: 1.1em;
     height: 1em;
     border-top: 0.25em solid #ffffff;
     border-right: 0.25em solid #ffffff;
@@ -412,6 +412,9 @@ footer {
     .icon_social {
         height: 60px;
         width: 60px;
+    }
+    .main_form form{
+        padding: 1rem;
     }
     .main_form p:first-child {
         font-size: 1rem;
